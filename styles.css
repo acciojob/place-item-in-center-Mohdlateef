@@ -1,17 +1,2 @@
 
 /* Your CSS Code here. */
-.holder{
-	height:100%;
-	width:100%;
-	position:fixed;
-		display:flex;
-	justify-content:center;
-	align-items:center;
-}
-.item-1{
-
-	width:100px;
-	height:100px;
-	background-color:red;
-	display:flex;
-}
